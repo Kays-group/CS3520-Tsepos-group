@@ -10,7 +10,9 @@ using basic digital logic gates, and reveal report skills using modern collabora
 ### DESIGN
 The attached file shows the schematic diagram and the truth table.
 
-SIMULATION AND RESULTS
+https://github.com/Kays-group/CS3520-Tsepos-group/blob/main/Screenshot%20(4).png
+
+### SIMULATION AND RESULTS
 The attached screenshots show all the combinations of the two 2-bit binary numbers and their results.
 
 TESTING STRATEGY WITH TESTING CASES
