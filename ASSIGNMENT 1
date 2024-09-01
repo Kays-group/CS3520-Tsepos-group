@@ -1,13 +1,13 @@
-Group members
-202100168
+# Group members
+#####202100168
 
-ASSIGNMENT 0- BINARY ADDER
+##ASSIGNMENT 0- BINARY ADDER
 
-OBJECTIVE
+###OBJECTIVE
 The objective is to design and simulate a functional digital circuit that adds two 2-bit binary numbers and produce a 3-bit output
 using basic digital logic gates, and reveal report skills using modern collaboration and publishing platforms.
 
-DESIGN
+###DESIGN
 The attached file shows the schematic diagram and the truth table.
 
 SIMULATION AND RESULTS
