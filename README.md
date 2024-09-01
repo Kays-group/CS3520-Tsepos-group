@@ -33,6 +33,9 @@ corresponds to those we obtained when adding numbers manually in either decimal 
 The 2-bit binary numbers that were used to test our adder are 00,01,10,11. For example,the expected 3-bit number when adding 0 and 1 is 1, which is 00 + 01 = 001 and the expected 3-bit  number when adding 2 and 3 is 5, which is 10 + 11 = 105.
 With these test cases, we verified that our 2-bit binary adder gives expected outcomes.
 
+![image](https://github.com/user-attachments/assets/0a24a577-87c1-4d9a-b455-c1044709a4a6)
+
+
 ### CHALLENGES FACED
 In order for us to add a carry from the first half adder and the sum of the most significant bit from the second adder, we had to 
 include another exclusive-or-gate. The 2-bit binary adder works as expected except for the combination of 01 + 01 which gives an unexpected outcome.
