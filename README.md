@@ -21,7 +21,7 @@ We used sequence generator to add all our inputs to the half adders and also use
 red the output is 1 and when the LED does not light the output is 0.The outputs we obtained when using a sequence generator 
 corresponds to those we obtained when adding numbers manually in either decimal form or binary form .
 The 2-bit binary numbers that were used to test our adder are 00,01,10,11.
-The expected 3-bit number when adding 0 and 1 is 1, which is 00 + 01 = 01
+The expected 3-bit number when adding 0 and 1 is 1, which is 00 + 01 = 001
 The expected 3-bit  number when adding 2 and 3 is 5, which is 10 + 11 = 105
 With these test cases, we verified that our 2-bit binary adder gives expected outcomes
 
