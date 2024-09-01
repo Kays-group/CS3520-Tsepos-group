@@ -37,7 +37,7 @@ With these test cases, we verified that our 2-bit binary adder gives expected ou
 
 CHALLENGES FACED
 In order for us to add a carry from the first half adder and the sum of the most significant bit from the second adder, we had to 
-include another exclusive-or-gate.
+include another exclusive-or-gate. The 2-bit binary adder works as expected except for the combination of 01 + 01 which gives an unexpected outcome.
 
 CONCLUSION
 This project effectively demonstrated our capabilities in designing, simulating, and documenting a digital curcuit that operates 
