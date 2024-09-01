@@ -15,6 +15,8 @@ using basic digital logic gates, and reveal report skills using modern collabora
 ### DESIGN
 The attached file shows the schematic diagram and the truth table.
 
+![image](https://github.com/user-attachments/assets/2ea1a596-30bb-4db9-bd58-a652f640c857)
+
 
 
 
