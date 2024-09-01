@@ -26,6 +26,12 @@ The attached file shows the schematic diagram and the truth table.
 ### SIMULATION AND RESULTS
 The attached screenshots show all the combinations of the two 2-bit binary numbers and their results.
 
+10 + 10 = 100
+![image](https://github.com/user-attachments/assets/0a24a577-87c1-4d9a-b455-c1044709a4a6)
+
+11 + 10 = 101
+![image](https://github.com/user-attachments/assets/55dd29b5-e91f-449f-9b99-64cd528690a4)
+
 ### TESTING STRATEGY WITH TESTING CASES
 We used sequence generator to add all our inputs to the half adders and also used LED to determine our outputs. When the LED lights 
 red the output is 1 and when the LED does not light the output is 0.The outputs we obtained when using a sequence generator 
@@ -33,9 +39,9 @@ corresponds to those we obtained when adding numbers manually in either decimal 
 The 2-bit binary numbers that were used to test our adder are 00,01,10,11. For example,the expected 3-bit number when adding 0 and 1 is 1, which is 00 + 01 = 001 and the expected 3-bit  number when adding 2 and 3 is 5, which is 10 + 11 = 105.
 With these test cases, we verified that our 2-bit binary adder gives expected outcomes.
 
-![image](https://github.com/user-attachments/assets/0a24a577-87c1-4d9a-b455-c1044709a4a6)
 
-![image](https://github.com/user-attachments/assets/55dd29b5-e91f-449f-9b99-64cd528690a4)
+
+
 
 
 
