@@ -35,6 +35,9 @@ With these test cases, we verified that our 2-bit binary adder gives expected ou
 
 ![image](https://github.com/user-attachments/assets/0a24a577-87c1-4d9a-b455-c1044709a4a6)
 
+![image](https://github.com/user-attachments/assets/55dd29b5-e91f-449f-9b99-64cd528690a4)
+
+
 
 ### CHALLENGES FACED
 In order for us to add a carry from the first half adder and the sum of the most significant bit from the second adder, we had to 
