@@ -17,6 +17,9 @@ The attached file shows the schematic diagram and the truth table.
 
 ![image](https://github.com/user-attachments/assets/2ea1a596-30bb-4db9-bd58-a652f640c857)
 
+![image](https://github.com/user-attachments/assets/eff809d8-1dda-4b7d-a044-0dbf1c1e05d1)
+
+
 
 
 
