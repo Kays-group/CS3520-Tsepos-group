@@ -54,3 +54,5 @@ This project effectively demonstrated our capabilities in designing, simulating,
 as a 2-bit binary adder using fundamental digital logic gates. By incorporating two half adders and a single OR gate, we 
 successfully achieved the task of adding two 2-bit binary numbers and producing a 3-bit output, which includes both sum bits and 
 the carry-out bit.
+https://github.com/Kays-group/CS3520-Tsepos-group/blob/main/ASSIGNMENT%201
+
